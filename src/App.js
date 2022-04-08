@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import { Switch, Route, Redirect, NavLink } from "react-router-dom";
-import { useEffect } from "react/cjs/react.production.min";
+
 
 import { AppointmentsPage } from "./containers/appointmentsPage/AppointmentsPage";
 import { ContactsPage } from "./containers/contactsPage/ContactsPage";
